@@ -1,9 +1,6 @@
 # Hi 👋, I'm Rim El Abed ✨  
 💻 Final year ICT engineering student | 🌐 Python developer | ☁️ Cloud & DevOps Learner  
 
----
-
-![Illustration](https://user-images.githubusercontent.com/0000000/0000000-illustration.png)
 
 ---
 
