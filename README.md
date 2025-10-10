@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimelabed&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimelabed&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimelabed&layout=compact&theme=radical&exclude_repo=repo_with_notebooks,another_repo&langs_count=8&v=2)
 
 ---
 
