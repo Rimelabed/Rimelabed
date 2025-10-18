@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 Connect with me
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/rim-elabed/)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Rimelabed)](https://www.linkedin.com/in/rim-elabed/)
 
 
 ---
